@@ -6,10 +6,6 @@
 
 [http://laraship.com/](http://laraship.com/)
 
-# Get Laraship Basic Package from CodeCanyon
-
-[https://codecanyon.net/item/laraship-pro-laravel-powerful-admin-user-cms-rules-memberships-settings-subscriptions/15650201](Laraship)
-
 # Check our Offers
 [http://laraship.com/pricing/](http://laraship.com/pricing/)
 
