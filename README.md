@@ -3,11 +3,9 @@
 
 <noscript>![](http://d2wvoz3xcmywg9.cloudfront.net/wp-content/uploads/2017/12/dashboard1.png)</noscript>
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 <noscript>![](http://d2wvoz3xcmywg9.cloudfront.net/wp-content/uploads/2017/12/free-installationai.png)</noscript>
-
-](http://laraship.com/free-installation)
 
 **Laraship is an administration platform for any SAAS application, powered By Laravel 5.5 and Stripe to provide a comprehensive set of features for any subscription platform.**
 
