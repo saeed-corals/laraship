@@ -6,8 +6,8 @@
 
 [http://laraship.com/](http://laraship.com/)
 
-# Check our Offers
-[http://laraship.com/pricing/](http://laraship.com/pricing/)
+# Get it now
+[Laraship](https://codecanyon.net/item/laraship-pro-laravel-powerful-admin-user-cms-rules-memberships-settings-subscriptions/15650201)
 
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
